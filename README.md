@@ -18,7 +18,7 @@ console.log(ffprobe.path);
 Version Notes
 ----
 
-Currently supports Mac OS X (64-bit), Linux (32 and 64-bit) and Windows
+Currently supports Mac OS X (64-bit and arm64), Linux (32 and 64-bit) and Windows
 (32 and 64-bit).
 
 Currently version `4.0.2` is installed for Mac, Windows and Linux.
